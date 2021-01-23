@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**sqrtofneg1/sqrtofneg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sunmin Choi (sqrtofneg1). I'm currently a Computer Systems Technology student at BCIT. Some of my other passions are music production and games(video/board/card). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experince in:
+Java
+HTML/CSS
+JavaScript
+jQuery
+Firebase/Firestore
+Bootstrap
+Node.js
+SQL
