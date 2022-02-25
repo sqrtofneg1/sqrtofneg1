@@ -11,5 +11,5 @@ I'm Sunmin Choi (sqrtofneg1). I'm currently a Computer Systems Technology studen
 -Bootstrap  
 -Node.js  
 -SQL  
--C
--Python
+-C  
+-Python  
